@@ -1,1 +1,13 @@
 Отлчия веток - в файлах README (в ветке master README дополнена: "with nice buttons on his jacket (buttons branch)")
+commits:
+1. init (29 jun 2016)
+2. heat added (29 jun 2016)
+3. boots (29 jun 2016)
+4. README added (29 jun 2016)
+5. dots (29 jun 2016)
+6. fix readme (29 jun 2016)
+7. Merge branch 'boots' into boots_buttons (23 jun 2021)
+8. Merge branch 'buttons' into boots_buttons (23 jun 2021)
+9. Merge branch 'hat' (23 jun 2021)
+10. Merge branch 'boots_buttons' (23 jun 2021)
+11. add hometask.txt (23 jun 2021)
